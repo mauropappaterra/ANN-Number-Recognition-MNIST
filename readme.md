@@ -1,7 +1,7 @@
 # Artificial Neural Network for hand-written number recognition
 
 ## Description
-A simple Artificial Neural Network (ANN) and an ANN with a hidden layer for recognizing hand-written digits using Tensorflow and Keras on a Python Jupyter Notebook and the MNIST dataset.
+Two simple Artificial Neural Networks (ANN) for recognizing handwritten digits using Tensorflow and Keras on a Python Jupyter Notebook and the MNIST dataset.
 
 ## Environment
 - Python 3.7.9  
